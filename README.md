@@ -76,18 +76,18 @@ Full single-page e-commerce build — product listing, cart, auth, and checkout 
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KartikK2004&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=KartikK2004&theme=flat&row=1&column=6" />
 </div>
 
 <br>
 
-## 🎓 Education
+## 🎯 Currently Focusing On
 
-<table>
-<tr><td><b>B.Tech IT</b></td><td>Chhatrapati Shivaji Maharaj University</td><td>2023 – 2026</td><td>CGPA: 7.13</td></tr>
-<tr><td><b>Diploma CS</b></td><td>Shantiniketan Polytechnic</td><td>2020 – 2023</td><td>63.57%</td></tr>
-<tr><td><b>SSC</b></td><td>K A Banthiya School</td><td>2020</td><td>57%</td></tr>
-</table>
+- 🔍 Actively applying for **React Front End Developer** roles
+- 📘 Deepening my React.js skills — hooks, performance optimization, testing
+- 🧩 Exploring TypeScript and Next.js to level up my stack
+- 🤝 Looking to collaborate on open-source or team projects to grow faster
+- 🏗️ Building a portfolio site to showcase my work
 
 <br>
 
