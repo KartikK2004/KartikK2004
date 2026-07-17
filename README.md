@@ -4,23 +4,25 @@
 
 <br>
 
-```
-> whoami
-Kartik Kadam · he/him · Panvel, India
-Status: Building things with React, hunting for my first role 🚀
-```
-
-<br>
-
 <a href="https://linkedin.com/in/KartikK2004" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
 <a href="mailto:kartikkadam175@gmail.com"><img src="https://img.shields.io/badge/-Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 <img src="https://img.shields.io/badge/-Open%20to%20Work-39FF14?style=for-the-badge&logo=github&logoColor=black" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=650&lines=const+dev+%3D+%7B+role%3A+%27Frontend%27+%7D%3B;building+with+React.js+%E2%9A%9B%EF%B8%8F;clean+code+%2B+clean+UI+%3D+%3C3;always.learning(newTech)%3B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=650&lines=React+Front+End+Developer;Turning+designs+into+clean%2C+responsive+UIs;Fresher+%7C+Eager+to+learn+and+build;Always+exploring+new+web+technologies" alt="Typing SVG" />
 
 </div>
+
+<br>
+
+## 👋 About Me
+
+- 🎓 B.Tech IT student, building real-world projects on the side
+- 💻 Focused on React.js, responsive design, and accessible, user-friendly interfaces
+- 🔌 Comfortable with REST API integration, Git, and modern web standards
+- 🌱 Currently looking for my first opportunity as a Front End Developer
+- 📍 Based in Panvel, India
 
 <br>
 
