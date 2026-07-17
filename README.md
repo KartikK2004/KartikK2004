@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/KartikK2004" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00A6FB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kartikkadam175@gmail.com"><img src="https://img.shields.io/badge/-Gmail-00A6FB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Open%20to%20Work-00A6FB?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=KartikK2004&label=Profile%20Views&color=00A6FB&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=KartikK2004&label=Profile%20Views&color=00A6FB&style=for-the-badge&base=0" alt="Profile Views" />
 
 <br><br>
 
