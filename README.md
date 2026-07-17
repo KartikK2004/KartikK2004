@@ -7,6 +7,7 @@
 <a href="https://linkedin.com/in/KartikK2004" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00A6FB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kartikkadam175@gmail.com"><img src="https://img.shields.io/badge/-Gmail-00A6FB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Open%20to%20Work-00A6FB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=KartikK2004&label=Profile%20Views&color=00A6FB&style=for-the-badge" alt="Profile Views" />
 
 <br><br>
 
@@ -73,10 +74,14 @@ Full single-page e-commerce build — product listing, cart, auth, and checkout 
 
 <br>
 
-## 🏆 Trophy Case
+## 🚀 Milestones
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KartikK2004&theme=flat&row=1&column=6" />
+
+![First Repo](https://img.shields.io/badge/Milestone-First%20Repo%20Created-00A6FB?style=for-the-badge&logo=github&logoColor=white)
+![First Project](https://img.shields.io/badge/Milestone-First%20React%20App%20Shipped-00A6FB?style=for-the-badge&logo=react&logoColor=white)
+![Job Hunt](https://img.shields.io/badge/Milestone-Job%20Hunt%20In%20Progress-00A6FB?style=for-the-badge&logo=target&logoColor=white)
+
 </div>
 
 <br>
