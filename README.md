@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Kartik%20Kadam&fontSize=55&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=React%20Front%20End%20Developer%20%7C%20Fresher&descAlignY=58&descSize=20&descColor=E0E0E0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Kartik%20Kadam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20Front%20End%20Developer%20%7C%20Fresher&descAlignY=58&descSize=20&descColor=E0E0E0" />
 
 <br>
 
-<a href="https://linkedin.com/in/KartikK2004" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-<a href="mailto:kartikkadam175@gmail.com"><img src="https://img.shields.io/badge/-Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-<img src="https://img.shields.io/badge/-Open%20to%20Work-39FF14?style=for-the-badge&logo=github&logoColor=black" />
+<a href="https://linkedin.com/in/KartikK2004" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00A6FB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kartikkadam175@gmail.com"><img src="https://img.shields.io/badge/-Gmail-00A6FB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-Open%20to%20Work-00A6FB?style=for-the-badge&logo=github&logoColor=white" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=650&lines=React+Front+End+Developer;Turning+designs+into+clean%2C+responsive+UIs;Fresher+%7C+Eager+to+learn+and+build;Always+exploring+new+web+technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=800&color=00C6FF&background=00000000&center=true&vCenter=true&width=650&lines=React+Front+End+Developer;Turning+designs+into+clean%2C+responsive+UIs;Fresher+%7C+Eager+to+learn+and+build;Always+exploring+new+web+technologies" alt="Typing SVG" />
 
 </div>
 
@@ -76,7 +76,7 @@ Full single-page e-commerce build — product listing, cart, auth, and checkout 
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KartikK2004&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=KartikK2004&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
 
 <br>
@@ -99,6 +99,6 @@ Full single-page e-commerce build — product listing, cart, auth, and checkout 
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" />
 
 </div>
